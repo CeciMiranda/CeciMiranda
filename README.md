@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou a
+    Oi, Tudo bem? Eu sou a
     <a href="https://www.linkedin.com/in/mirandacecilia/">Cecília Miranda 👩🏾‍💻</a>
   </h1>
   
@@ -41,6 +41,6 @@
 </div>
 
 <div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Créditos:<a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
 # CeciMiranda
