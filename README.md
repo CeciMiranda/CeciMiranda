@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi, Tudo bem? Eu sou a
+    Oi oi, tudo bem? Eu sou a
     <a href="https://www.linkedin.com/in/mirandacecilia/">Cecília Miranda 👩🏾‍💻</a>
   </h1>
   
