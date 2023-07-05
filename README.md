@@ -40,7 +40,4 @@
   
 </div>
 
-<div align="center">
-  <p>Créditos:<a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
 # CeciMiranda
